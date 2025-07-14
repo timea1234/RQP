@@ -6,5 +6,6 @@
  <body>
  {% include env-links.html %}
    <script src="https://app.dev.roofle.coherentprojects.net/roof-quote-pro-clp-button.js?id=Ipw5jJrLvudw-2Bc7d-9C" async></script>
+   <script src="https://app.dev.roofle.coherentprojects.net/loan-calculator-widget.js?id=jQGi0Z0L1b4TWgYvcbLbo" async></script>
   </body>
 </html>
