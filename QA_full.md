@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+  {% include env-links.html %}
+    <script src="https://app.qa.roofle.coherentprojects.net/roof-quote-pro-clp-button.js?id=Ipw5jJrLvudw-2Bc7d-9C" async></script>
+<!--     <script src="https://app.qa.roofle.coherentprojects.net/roof-quote-pro-embedded-widget.js?id=Ipw5jJrLvudw-2Bc7d-9C" async></script> -->
+    <script src="https://app.qa.roofle.coherentprojects.net/loan-calculator-embedded-widget.js?id=Ipw5jJrLvudw-2Bc7d-9C" async></script>
+  </body>
+</html>
